@@ -1,0 +1,17 @@
+destination,region,interest,cost,month,weather,image
+Bali,Asia,Relaxation,3200,January,☀️,https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Bali_Ubud_Tegalalang_Rice_Terrace.jpg/640px-Bali_Ubud_Tegalalang_Rice_Terrace.jpg
+Tokyo,Asia,Adventure,4500,March,🌸,https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Tokyo_Tower_and_Zojoji_Temple.jpg/640px-Tokyo_Tower_and_Zojoji_Temple.jpg
+Singapore,Asia,Urban,4800,February,🌤,https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Singapore_Skyline.JPG/640px-Singapore_Skyline.JPG
+Kyoto,Asia,Culture,3500,October,🍁,https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Kyoto_Mountain_Fall.jpg/640px-Kyoto_Mountain_Fall.jpg
+Paris,Europe,Culture,5000,April,🌤,https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Tour_Eiffel_Wikimedia_Commons.jpg/640px-Tour_Eiffel_Wikimedia_Commons.jpg
+Barcelona,Europe,Relaxation,4100,June,☀️,https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Barcelona_City_View.jpg/640px-Barcelona_City_View.jpg
+Zurich,Europe,Adventure,5300,December,❄️,https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Zurich_Winter.jpg/640px-Zurich_Winter.jpg
+New York,North America,Urban,4700,December,❄️,https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/New_York_City_at_night_HDR_edit1.jpg/640px-New_York_City_at_night_HDR_edit1.jpg
+Banff,North America,Adventure,4400,January,🌨,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Banff_National_Park_Lake_Louise.jpg/640px-Banff_National_Park_Lake_Louise.jpg
+Tulum,North America,Relaxation,3900,August,☀️,https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Tulum_Mexico_Beach.jpg/640px-Tulum_Mexico_Beach.jpg
+Cape Town,Africa,Adventure,3800,November,🌞,https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Cape_Town_Panorama.jpg/640px-Cape_Town_Panorama.jpg
+Marrakech,Africa,Culture,3500,May,🌤,https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Marrakech_Souk.jpg/640px-Marrakech_Souk.jpg
+Sydney,Australia,Urban,5200,February,☀️,https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Sydney_Opera_House_and_Harbour_Bridge.jpg/640px-Sydney_Opera_House_and_Harbour_Bridge.jpg
+Queenstown,Australia,Adventure,4600,July,❄️,https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Queenstown_Lake_Wakatipu.jpg/640px-Queenstown_Lake_Wakatipu.jpg
+Rio de Janeiro,South America,Relaxation,4200,March,🌤,https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Rio_de_Janeiro_City_View.jpg/640px-Rio_de_Janeiro_City_View.jpg
+Cusco,South America,Culture,3400,September,🌦,https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cusco_Peru.jpg/640px-Cusco_Peru.jpg
